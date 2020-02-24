@@ -1,0 +1,2 @@
+# assets
+has images
